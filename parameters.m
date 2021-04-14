@@ -5,7 +5,7 @@
 % CALCULATION CONTROL
 % ===================
 deltaT = 60; % time step size [s]
-sim_days = 364; % number of days to simulate [-] NB 2016 Leap Year
+sim_days = 30; % number of days to simulate [-] NB 2016 Leap Year
 Nz = 1; % number of zones [-]
 
 % CONSTANTS
